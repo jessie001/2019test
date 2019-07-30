@@ -1,7 +1,6 @@
 {
   "name": "20190730",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "less": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +11,18 @@
   "dependencies": {
     "bootstrap": "^3.4.1",
     "jquery": "^3.4.1",
-    "less": "^3.9.0"
-  }
+    "less": "^3.9.0",
+    "node": "^12.7.0",
+    "query": "^0.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessie001/2019test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jessie001/2019test/issues"
+  },
+  "homepage": "https://github.com/jessie001/2019test#readme",
+  "description": ""
 }
